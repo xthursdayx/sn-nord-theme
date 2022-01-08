@@ -16,8 +16,8 @@ metatype: json
     "dock_icon": {
       "type": "circle",
       "background_color": "#88C0D0",
-      "foreground_color": "#88C0D0",
-      "border_color": "#88C0D0"
+      "foreground_color": "#81a1c1",
+      "border_color": "#2e3440"
     },
     "statusBar": "dark-content"
   }
