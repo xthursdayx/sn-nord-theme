@@ -1,4 +1,4 @@
-# Nord Theme
+# Pencil Theme
 
 An arctic, north-bluish clean and elegant Standard Notes theme. 
 
